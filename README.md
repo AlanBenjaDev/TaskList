@@ -68,7 +68,7 @@ El proyecto está pensado como base sólida para:
 ### Instalación
 
 1. Clonar el repositorio
-```sh
+sh
 git clone https://github.com/AlanBenjaDev/task-list-crud.git
 
 2. instalar dependencias
@@ -119,13 +119,15 @@ Incluye validaciones básicas para evitar estados inválidos.
 
  Soft delete
 
-
+ 
  Imagenes de los test en Potsman
 
 ![CreateTask](Images/CreateTasks.png)
 ![GetTasks](Images/GetTasks.png)
 ![UpdateTask](Images/UpdateTasks.png)
  ![DeleteTask](Images/DeleteTask.png)
+
+
 
 
 
