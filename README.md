@@ -7,8 +7,6 @@
   <p align="center">
     Backend RESTful para gestión de tareas con estados y operaciones CRUD completas.
     <br />
-    <a href="https://example.com"><strong>Ver demo »</strong></a>
-    <br />
     <br />
   </p>
 </div>
@@ -22,7 +20,7 @@
 Cada tarea cuenta con:
 - Un **nombre**
 - Un **estado** controlado (`pending`, `in_progress`, `completed`)
-- Fechas de creación y actualización
+-
 
 El proyecto está pensado como base sólida para:
 - Aplicaciones web
